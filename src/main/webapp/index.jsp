@@ -15,8 +15,7 @@
         Please invite all your contacts and friends for this life changing course.
 </h1>
 <div style="text-align: center;">
-	<span style="font-weight: bold;">
-                Solavise Technologies Institute LLC, 
+	<span style="font-weight: bold;"> 
 		Solavise Technologies Institute, LLC
         5680 King Centre Dr., Suite 600
         Alexandria, VA 22315
