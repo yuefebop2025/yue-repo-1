@@ -1,6 +1,6 @@
 FROM tomcat:8.0.20-jre8
 
-MAINTAINER Atanga <ndecalamba@gmail.com>
+MAINTAINER Prof Atanga <ndecalamba@gmail.com>
 
 EXPOSE 8080
 
