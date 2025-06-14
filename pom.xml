@@ -13,8 +13,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Solavise Technologies Institute</name>
-		<url>http://solavisetech.com/</url>
+		<name>INTL Technologies</name>
+		<url>http://intltechnologies.com/</url>
 	</organization>
 
 	<properties>
@@ -22,9 +22,9 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://54.198.218.127:9000/</sonar.host.url> 
+		<sonar.host.url>http://3.136.25.38:9000/</sonar.host.url> 
 		<sonar.login>admin</sonar.login>
-		<sonar.password>Atango@123456#</sonar.password> 
+		<sonar.password>Atanga@123456#</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
@@ -94,14 +94,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>SolaviseTech Releases Nexus Repository</name>
-	      <url>http://54.234.86.134:8081/repository/maven-releases/</url>
+	      <name>INTL Technologies Releases Nexus Repository</name>
+	      <url>http://52.14.86.192:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>SolaviseTech Snapshot Nexus Repository </name>
-	      <url>http://54.234.86.134:8081/repository/maven-snapshots/</url>
+	      <name>INTL Technologies Snapshot Nexus Repository </name>
+	      <url>http://52.14.86.192:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
