@@ -1,1 +1,1 @@
-# Build a nodejs app in a docker container mounted on an AWS EC2 instances.#
+# Built a nodejs app in a docker container mounted on an AWS EC2 instances.#
