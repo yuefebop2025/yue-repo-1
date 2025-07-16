@@ -11,3 +11,4 @@ Login into your AWS account then click on launch instance, select the subnet of 
 -configure the storage to 10Gib
 -then launch the instance
 "C:\Users\victo\OneDrive\Desktop\nodejs folder"
+<img width="1847" height="873" alt="Image" src="https://github.com/user-attachments/assets/7af44bfb-724c-4f26-b09f-698fca7c2182" />
